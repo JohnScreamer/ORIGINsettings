@@ -1,0 +1,16 @@
+@font-face {
+   font-family: "TTTrailers";
+   src: url(/src/fonts/CormorantUpright-Light.ttf);
+}
+
+body {
+   font-family: "TTTrailers";
+   background: rgb(116, 114, 114);
+   font-size: 192px;
+   span {
+      font-size: 2px;
+      color: red;
+   }
+   margin: 111px;
+   padding: 11px;
+}
